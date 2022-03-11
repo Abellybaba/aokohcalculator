@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/aokohcalculator/static/css/main.3763ff27.css",
+    "main.js": "/aokohcalculator/static/js/main.6cddb443.js",
+    "static/media/react-bootstrap-carousel.eot": "/aokohcalculator/static/media/react-bootstrap-carousel.1a0fe919ea31a13740d3.eot",
+    "static/media/react-bootstrap-carousel.ttf": "/aokohcalculator/static/media/react-bootstrap-carousel.f41331129badd2b01fc7.ttf",
+    "static/media/react-bootstrap-carousel.woff": "/aokohcalculator/static/media/react-bootstrap-carousel.96e0693824065d5b7d56.woff",
+    "static/media/react-bootstrap-carousel.svg": "/aokohcalculator/static/media/react-bootstrap-carousel.190d0d1bf1c865be7a1b.svg",
+    "index.html": "/aokohcalculator/index.html",
+    "main.3763ff27.css.map": "/aokohcalculator/static/css/main.3763ff27.css.map",
+    "main.6cddb443.js.map": "/aokohcalculator/static/js/main.6cddb443.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3763ff27.css",
+    "static/js/main.6cddb443.js"
+  ]
+}
